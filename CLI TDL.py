@@ -14,4 +14,3 @@ def save_tasks(tasks):
         json.dump(tasks, f, indent = 2)
 
 def show_tasks(tasks):
-    

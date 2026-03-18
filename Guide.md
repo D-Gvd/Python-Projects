@@ -60,5 +60,3 @@
 4. git push -u origin main
     *for subsequent pushes:
     git push
-
-Test line insertion. Remove testfile.txt as well.
